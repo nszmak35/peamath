@@ -20,8 +20,6 @@ Requirements: `gcc`, `make`, a UTF-8 terminal (every modern one).
 ```
 make
 sudo make install       # installs to /usr/local/bin
-sudo make uninstall
-make clean
 ```
 
 Install somewhere else with `make install PREFIX=$HOME/.local`
